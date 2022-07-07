@@ -1,0 +1,15 @@
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\bin\Debug\net6.0\Exaple001_Hello_console.exe
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\bin\Debug\net6.0\Exaple001_Hello_console.deps.json
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\bin\Debug\net6.0\Exaple001_Hello_console.runtimeconfig.json
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\bin\Debug\net6.0\Exaple001_Hello_console.dll
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\bin\Debug\net6.0\Exaple001_Hello_console.pdb
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.csproj.AssemblyReference.cache
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.AssemblyInfoInputs.cache
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.AssemblyInfo.cs
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.csproj.CoreCompileInputs.cache
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.dll
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\refint\Exaple001_Hello_console.dll
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.pdb
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\Exaple001_Hello_console.genruntimeconfig.cache
+E:\WEB\! МОЁ !\! Обучение !\!!! GB !!!\!!!!!!!!!!!\CS\Lesson 1\Exaple001_Hello_console\obj\Debug\net6.0\ref\Exaple001_Hello_console.dll
